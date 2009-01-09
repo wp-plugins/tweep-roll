@@ -13,11 +13,7 @@ When I find a Tweep (a Twitter friend) that tweets about interesting things, Iâ€
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `tweep-roll-vX.zip` to the `/wp-content/plugins/` directory and extract
+1. Upload `tweep-roll.php` to the `/wp-content/plugins/` directory 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add the widget to your sidebar through the 'Appearance'->'Widgets' section.
 4. Enter the title for the Tweep Roll, your Twitter username and the number of Tweeps to show.

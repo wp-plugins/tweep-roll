@@ -3,6 +3,7 @@ Contributors: mariasadventures
 Donate link: http://www.mariasadventures.com/tweep-roll
 Tags: twitter, blogroll, sidebar, widget
 Tested up to: 2.7
+Requires at least: 2.0
 Stable tag: 0.1
 
 Tweep Roll is like Blogroll, for your Twitter friends.

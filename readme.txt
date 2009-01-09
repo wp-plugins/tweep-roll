@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: mariasadventures
 Donate link: http://www.mariasadventures.com/tweep-roll
-Tags: twitter, blogroll, sidebar, widget
+Tags: twitter, blogroll, sidebar, widget, plugin, links, admin
 Tested up to: 2.7
 Requires at least: 2.0
 Stable tag: 0.1

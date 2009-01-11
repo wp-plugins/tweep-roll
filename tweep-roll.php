@@ -31,7 +31,7 @@ $twitter_options['widget_fields']['num'] = array('label'=>'# of Tweeps:', 'type'
 $twitter_options['prefix'] = 'twitter';
 
 // Display Twitter friends
-function twitter_friends($username = '', $num = 10, $list = false) {
+function tweep_roll($username = '', $num = 10, $list = false) {
 
 	global $twitter_options;
 
@@ -116,7 +116,7 @@ function widget_tweep_roll_init() {
 
 		// These lines generate our output.
 		echo $before_widget . $before_title . $item['title'] . $after_title;
-		twitter_friends($item['username'], $item['num'], true);
+		tweep_roll($item['username'], $item['num'], true);
 		echo $after_widget;
 				
 	}
